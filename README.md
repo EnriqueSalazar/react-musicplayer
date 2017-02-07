@@ -2,7 +2,7 @@ Web Music Player built with React and Redux
 ===========================================
 
 
-React Native specific linting rules for ESLint. This repository is structured like  (and contains code from) the excellent [eslint-plugin-react](http://github.com/yannickcr/eslint-plugin-react).
+Client and server project. More details soon.
 
 # Installation
 
